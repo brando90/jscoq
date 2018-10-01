@@ -32,7 +32,6 @@ COQINCLUDE=-I $(COQDIR)/config     \
 
 COQOBJS=$(COQDIR)/clib/clib.cma			\
 	$(COQDIR)/lib/lib.cma			\
-	$(COQDIR)/intf/intf.cma			\
 	$(COQDIR)/kernel/kernel.cma		\
 	$(COQDIR)/library/library.cma		\
 	$(COQDIR)/engine/engine.cma	        \

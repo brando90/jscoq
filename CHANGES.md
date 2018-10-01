@@ -1,8 +1,8 @@
 + JsCoq 1.0 ((())((()()(()))((()()))))
 --------------------------------------
 
-  - [ ] Move to sertop.
-  - [ ] Worker support.
+  - Move to sertop.
+  - Worker support.
 
   Released on: 
 
@@ -10,7 +10,8 @@
 -------------------------------------
 
   - [ ] UI layout.
-  - [x[ Support for Coq 8.9
+  - [x] Use Dune as build system
+  - [x] Support for Coq 8.9
   - [x] Static compilation of cma/cmo. (thanks @hhugo).
   - [x] Support for Coq 8.6.
   - [x] Migrated to ppx for jsoo syntax.
